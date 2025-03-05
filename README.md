@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kedar S Paunikar</h1>
+<h1 align="center">Hi 👋, I'm Kedar Paunikar</h1>
 <h3 align="center">A passionate Web developer adept in HTML, CSS, JavaScript, and front-end frameworks. Committed to crafting efficient, user-friendly web experiences. Let's build!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedar2580&label=Profile%20views&color=0e75b6&style=flat" alt="kedar2580" /> </p>
