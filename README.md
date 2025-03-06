@@ -22,7 +22,9 @@
 </p>
 -->
 
+<!--
 <br clear="both">
+-->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paunikar-kedar/" target="_blank">
