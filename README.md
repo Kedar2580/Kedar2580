@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/paunikar-kedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paunikar-kedar" height="35" width="50" /></a>
 <a href="https://instagram.com/kedar_8485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_8485" height="35" width="50" /></a>
-  <a href="https://twitter.com/https://x.com/kedarpaunikar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kedarpaunikar24" height="35" width="50" /></a>
+  <a href="https://twitter.com/https://x.com/kedarpaunikar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kedarpaunikar24](https://x.com/KedarPaunikar24" height="35" width="50" /></a>
   <a href="https://auth.geeksforgeeks.org/user/kedarpaunikar000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kedarpaunikar000" height="35" width="50" /></a>
 
 </p>
