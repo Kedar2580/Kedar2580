@@ -38,3 +38,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+<img src="https://raw.githubusercontent.com/Kedar2580/Kedar2580/output/snake.svg" alt="Snake animation" />
+
+###
