@@ -93,7 +93,7 @@
 ###
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote  Of  The  Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
