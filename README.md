@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kedar Paunikar</h1>
 <h3 align="center">I'm a passionate web developer 👨‍💻, skilled in HTML, CSS, JavaScript, and more. I love building responsive, user-friendly websites and solving creative challenges 💻.</h3>
-
+<!--
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
+-->
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW94Nm1zYzc4N2tlbGg1ZDc4ancwY2V4N25pM2psdGE5cDJyZTNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Tgw604MyLJnDtbi4t0/giphy.gif">
 
