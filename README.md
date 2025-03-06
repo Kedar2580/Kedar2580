@@ -77,8 +77,13 @@
 
 <!-- ADDING SNAKE GAME -->
 <br clear="both">
-
+<!--
 <img  src="https://raw.githubusercontent.com/Kedar2580/Kedar2580/output/snake.svg" alt="Snake animation" />
+-->
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ###
 
@@ -87,6 +92,8 @@
 ### ✍️  Quote  Of  The  Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
 
 
 
