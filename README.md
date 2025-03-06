@@ -14,11 +14,31 @@
 - 📫 How to reach me -> **kedarpaunikar000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<!--
 <p align="left">
 <a href="https://linkedin.com/in/paunikar-kedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paunikar-kedar" height="30" width="40" /></a>
 <a href="https://instagram.com/kedar_8485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_8485" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kedarpaunikar000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kedarpaunikar000" height="30" width="40" /></a>
 </p>
+-->
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/paunikar-kedar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/kedar_8485/?__pwa=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="35" alt="twitter logo"  />
+  <a href="kedarpaunikar000@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
