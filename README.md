@@ -80,6 +80,13 @@
 ###
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kedar2580/Kedar2580/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -89,8 +96,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kedar2580/Kedar2580/output/snake.svg" alt="Snake animation" />
-
-###
