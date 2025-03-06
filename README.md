@@ -22,10 +22,6 @@
 </p>
 -->
 
-<!--
-<br clear="both">
--->
-
 <div align="left">
   <a href="https://www.linkedin.com/in/paunikar-kedar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
@@ -34,9 +30,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="35" alt="twitter logo"  />
-  <a href="kedarpaunikar000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  </a>
+  
 <a href="https://auth.geeksforgeeks.org/user/kedarpaunikar000" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kedarpaunikar000" height="35" width="50" />
   </a>
 </div>
