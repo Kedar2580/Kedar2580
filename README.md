@@ -13,7 +13,6 @@
 
 - 📫 How to reach me -> **kedarpaunikar000@gmail.com**
 
-----
 
 <h3 align="left">Connect with me:</h3>
 
@@ -68,6 +67,7 @@
 <!--MOST USED LANGUAGE STATS -->
 <br clear="both">
 
+## Current GitHub Stats 📊
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kedar2580&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kedar2580&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
