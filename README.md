@@ -13,6 +13,8 @@
 
 - 📫 How to reach me -> **kedarpaunikar000@gmail.com**
 
+----
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -24,9 +26,8 @@
 </p>
 
 
-
 <!-- ADDING TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack 💻 </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
