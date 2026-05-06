@@ -1,3 +1,21 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kedar2580.Kedar2580&"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Kedar Paunikar</h1>
 <h3 align="center">I'm a passionate web developer 👨‍💻, skilled in HTML, CSS, JavaScript, and more. I love building responsive, user-friendly websites and solving creative challenges 💻.</h3>
 <!--
@@ -18,14 +36,14 @@
 - 📫 How to reach me -> **kedarpaunikar000@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+</div> -->
 
 </p>
 
@@ -73,30 +91,26 @@
 <br clear="both">
 
 ## Current GitHub Stats 📊
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kedar2580&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kedar2580&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
+
+![](https://github-readme-stats.shion.dev/api?username=Kedar2580&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Kedar2580&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kedar2580&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
 <!-- ADDING SNAKE GAME -->
 <br clear="both">
-<!--
 <img  src="https://raw.githubusercontent.com/Kedar2580/Kedar2580/output/snake.svg" alt="Snake animation" />
--->
 
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
-###
 
 
 <!-- ADDING QUOTE -->
 ### ✍️  Quote  Of  The  Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+---
+[![](https://komarev.com/ghpvc/?username=Kedar2580&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
