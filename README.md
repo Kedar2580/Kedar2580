@@ -12,9 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kedar2580.Kedar2580&"  />
-</div>
 
 <h1 align="center">Hi 👋, I'm Kedar Paunikar</h1>
 <h3 align="center">I'm a passionate web developer 👨‍💻, skilled in HTML, CSS, JavaScript, and more. I love building responsive, user-friendly websites and solving creative challenges 💻.</h3>
